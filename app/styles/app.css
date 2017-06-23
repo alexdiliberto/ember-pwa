@@ -1,0 +1,9 @@
+#ember-welcome-page-id-selector {
+  background: #F8F8F8;
+}
+#ember-welcome-page-id-selector a:link, #ember-welcome-page-id-selector a:visited {
+  color: blue;
+}
+#ember-welcome-page-id-selector .postscript {
+  color: black;
+}

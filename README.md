@@ -1,7 +1,10 @@
-# pwa-app
+# ember-pwa
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Progressive Web App POC with Ember
+
+![ember-pwa Lighthouse screenshot][lighthouse-screenshot]
+
+[lighthouse-screenshot]: https://raw.githubusercontent.com/alexdiliberto/ember-pwa/master/screenshot.png
 
 ## Prerequisites
 
@@ -15,7 +18,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd pwa-app`
+* `cd ember-pwa`
 * `npm install`
 
 ## Running / Development
